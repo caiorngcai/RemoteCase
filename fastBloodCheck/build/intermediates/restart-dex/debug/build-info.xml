@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="139959839755880"
+    token="-4462934119211642146"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5590" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2083" />
+    <task
+        name="verifier"
+        duration="352" />
+
+    <artifact
+        location="D:\Android\Android_workspace\RemoteCase\fastBloodCheck\build\outputs\apk\fastBloodCheck-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="139959839755880"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Android\Android_workspace\RemoteCase\fastBloodCheck\build\outputs\apk\fastBloodCheck-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/AskHelp/OpreattingDetailsHelp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/AskHelp/SystemHelp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodPressure/BloodPressureActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodPressure/BloodPressureHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodPressure/BluetoothDeviceAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodPressure/BluetoothReciever.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodPressure/CustomBloodPressureTrendChart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodPressure/CustomSphygmomanometerView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodSugar/BloodSugarActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodSugar/CustomBloodSugarTrendChart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/BloodSugar/CustomGlucometerView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/FileManager/FileManagerActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/FileManager/TakePhotoes.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/HeartAuscultation/ClsOscilloscope.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/HeartAuscultation/HeartListen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/LoginActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/MainTabHost.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/fastBloodCheck/src/main/java/com/WelcomeActivity.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

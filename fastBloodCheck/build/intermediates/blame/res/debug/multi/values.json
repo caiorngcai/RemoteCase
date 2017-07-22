@@ -1,0 +1,450 @@
+[
+    {
+        "outputFile": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 41,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 51,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 51,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 53,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 315,
+                        "endColumn": 53,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 52,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 52,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 48,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 48,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 48,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endColumn": 48,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 56,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 56,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 44,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 44,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 41,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 41,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 601,
+                    "endColumn": 57,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 55,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 52,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 44,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 44,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 70,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 381,
+                        "endColumn": 70,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 68,
+                    "endOffset": 948
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 68,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 953,
+                    "endColumn": 64,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 64,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 138,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 138,
+                        "endOffset": 376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1157,
+                    "endColumn": 87,
+                    "endOffset": 1240
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 87,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1245,
+                    "endColumn": 119,
+                    "endOffset": 1360
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 119,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1365,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1651
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1656,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1811
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 46,
+                        "startOffset": 564,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1816,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2383
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2388,
+                    "endColumn": 39,
+                    "endOffset": 2423
+                },
+                "from": {
+                    "file": "D:\\Android\\Android_workspace\\RemoteCase\\fastBloodCheck\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 46,
+                        "endOffset": 564
+                    }
+                }
+            }
+        ]
+    }
+]
